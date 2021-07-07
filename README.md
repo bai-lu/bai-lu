@@ -7,7 +7,8 @@ You can contact me via my [email][myEmail] .
 **Welcome to my space**
 
 ```
-I'm a man with no great ambition, and I seek inner peace.
+👀 I’m interested in game and anime, But I seldom play now...
+🌱 I’m currently learning golang and algorithm
 ```
 
 ---
@@ -21,9 +22,8 @@ I'm a man with no great ambition, and I seek inner peace.
 |⭐⭐| MySQL|Frequently Used|
 |⭐⭐|RPC Framework| Frequently Used|
 |⭐|Html、CSS、TypeScript、JS|Used
----
 
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=bai-lug&layout=compact)
+---
 
 [homePage]: https://bai-lu.github.io/
 [myEmail]: vasterlu@gmail.com
