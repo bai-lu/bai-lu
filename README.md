@@ -16,13 +16,9 @@ You can contact me via my [email][myEmail] .
 **Here are my areas**
 |Mastery| Items |Notes|
 |-|-|-|
-|⭐⭐⭐|Golang|Frequently Used|
+|⭐⭐⭐⭐|Golang|Frequently Used|
 |⭐⭐⭐|Python|Frequently Used|
 |⭐⭐⭐|Nginx|Frequently Used|
-|⭐⭐| MySQL|Frequently Used|
-|⭐⭐|RPC Framework| Frequently Used|
-|⭐|Html、CSS、TypeScript、JS|Used
-
 ---
 
 [homePage]: https://bai-lu.github.io/
